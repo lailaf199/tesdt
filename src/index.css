@@ -7,3 +7,9 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.ahm,h2{
+  text-align: center;
+  background-color: aqua;
+  color: brown;
+  font-size: 26px;
+}
